@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">ArquiSketch 3D</string>
+
+    <!-- Tools -->
+    <string name="tool_orbit">Orbitar</string>
+    <string name="tool_select">Seleccionar</string>
+    <string name="tool_line">Línea</string>
+    <string name="tool_rectangle">Rectángulo</string>
+    <string name="tool_push_pull">Empujar</string>
+    <string name="tool_eraser">Borrador</string>
+    <string name="tool_paint">Pintar</string>
+    <string name="tool_measure">Medir</string>
+
+    <!-- Tool Hints -->
+    <string name="hint_orbit">1 dedo: Orbitar · 2 dedos: Zoom y Paneo</string>
+    <string name="hint_select">Toca una cara o arista · Doble toque: volumen completo</string>
+    <string name="hint_line">Arrastra para trazar con snapping a ejes X/Y/Z</string>
+    <string name="hint_rectangle">Arrastra en el suelo o sobre una cara existente</string>
+    <string name="hint_push_pull">Toca una cara plana y arrastra para extruir en 3D</string>
+    <string name="hint_eraser">Toca una arista, cota o volumen para eliminarlo</string>
+    <string name="hint_paint">Elige un material y toca una cara para aplicarlo</string>
+    <string name="hint_measure">Arrastra entre dos puntos para medir en metros</string>
+
+    <!-- Top Actions -->
+    <string name="action_projects">Proyectos</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="action_redo">Rehacer</string>
+    <string name="action_views">Vistas</string>
+    <string name="action_grid">Cuadrícula</string>
+    <string name="action_theme_toggle">Cambiar tema</string>
+    <string name="action_export">Exportar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_new_project">Nuevo</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_apply">Aplicar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <!-- Views -->
+    <string name="view_isometric">Isométrica</string>
+    <string name="view_top">Planta</string>
+    <string name="view_front">Frontal</string>
+    <string name="view_reset">Restablecer</string>
+
+    <!-- Materials -->
+    <string name="material_matte_white">Blanco Mate</string>
+    <string name="material_concrete">Concreto</string>
+    <string name="material_wood">Madera</string>
+    <string name="material_glass">Vidrio</string>
+    <string name="paint_scope_face">Solo cara</string>
+    <string name="paint_scope_volume">Todo volumen</string>
+
+    <!-- VCB -->
+    <string name="vcb_title">Medidas (VCB)</string>
+    <string name="vcb_placeholder">Ej: 3.50 o 4.0, 2.5</string>
+    <string name="vcb_hint_push_pull">Altura/extrusión exacta en metros (ej. 3.50)</string>
+    <string name="vcb_hint_rectangle">Ancho, Fondo en metros (ej. 4.0, 2.5)</string>
+    <string name="vcb_hint_line">Longitud exacta del segmento en metros (ej. 2.75)</string>
+    <string name="vcb_hint_default">Realiza un trazo o extrusión y escribe la medida exacta</string>
+
+    <!-- Export -->
+    <string name="export_title">Exportar Modelo 3D</string>
+    <string name="export_obj_title">Wavefront OBJ (.obj)</string>
+    <string name="export_obj_desc">Malla universal compatible con Blender, SketchUp y AutoCAD</string>
+    <string name="export_gltf_title">glTF 2.0 (.gltf)</string>
+    <string name="export_gltf_desc">Escena 3D moderna con materiales PBR embebidos</string>
+
+    <!-- Projects -->
+    <string name="projects_title">Proyectos Locales</string>
+    <string name="projects_save_current">Guardar proyecto actual</string>
+    <string name="projects_name_label">Nombre del proyecto</string>
+    <string name="projects_empty">Aún no has guardado proyectos en este dispositivo.</string>
+    <string name="projects_new_blank">Lienzo vacío</string>
+    <string name="projects_new_sample">Escena de ejemplo</string>
+
+    <!-- Grid -->
+    <string name="grid_title">Cuadrícula en metros</string>
+    <string name="grid_visible">Mostrar cuadrícula</string>
+    <string name="grid_snap">Ajuste a cuadrícula</string>
+</resources>

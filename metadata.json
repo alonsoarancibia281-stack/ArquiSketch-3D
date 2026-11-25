@@ -1,0 +1,6 @@
+{
+  "name": "ArquiSketch 3D",
+  "description": "Aplicación móvil Android inspirada en SketchUp para modelado 3D rápido e intuitivo con gestos táctiles, Push/Pull, VCB de precisión y exportación OBJ/GLTF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
